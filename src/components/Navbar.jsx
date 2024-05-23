@@ -53,7 +53,7 @@ const Navbar = () => {
             </a>
           </div>
 
-          <div className="md:hidden">
+          <div className="md:hidden absolute left-80 ">
             <button
               onClick={toggleMenu}
               className="block text-gray-700 hover:text-gray-500 focus:outline-none"
