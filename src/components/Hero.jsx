@@ -26,7 +26,7 @@ const Hero = () => {
         <h1 className="text-4xl lg:text-6xl mt-2">
           Elevate your Growth <br /> on Every Front
         </h1>
-        <h3 className="text-sm lg:text-[20px] mt-3 font-thin">
+        <h3 className="text-sm lg:text-[20px] text-gray-700 mt-3 font-semibold">
           Transform education, foster collaboration, and make informed decisions{" "}
           <br /> with our solutions. Empowering management, inspiring teachers,
           and <br /> enriching the learning journey for all is our core focus.
